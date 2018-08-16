@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: admin
+Build-Jdk: 10.0.1
+Implementation-Title: coffeeshop
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: co.grandcircus
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/coffeeshop
+Created-By: Maven Integration for Eclipse
+
